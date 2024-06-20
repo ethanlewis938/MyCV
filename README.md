@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
     <title>Ethan CV</title>
@@ -64,4 +64,4 @@
         </section>
     </div>
 </body>
-</html>
+</html>```
