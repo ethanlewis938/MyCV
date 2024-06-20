@@ -1,4 +1,5 @@
-```<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
 <head>
     <title>Ethan CV</title>
@@ -7,7 +8,6 @@
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" 
     crossorigin="anonymous">
     <link href="styles.css">
-<head>
 </head>
 <body>
     <div class="container">
@@ -64,4 +64,4 @@
         </section>
     </div>
 </body>
-</html>```
+</html>
