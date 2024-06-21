@@ -38,16 +38,11 @@ After installing the project, you can use it by following these steps:
 1. **Run the program**:
 
    - On Windows:
-     ```sh
-     python inventory.py
-     ```
-   - On Mac:
-     ```sh
-     python3 inventory.py
-     ```
+      - Right click on the index file and open with any browser.
+
 **2. Interact with the program**
 
-After cloning the repository and navigating to the project directory, you can use the website to learn more about my professional background. Follow these steps to explore the site:
+After cloning the repository and navigating to the project directory, you can use the website to learn more about my professional background. Follow these steps:
 
 1. **Open the Website**: Launch the `index.html` file in your preferred web browser.
 
