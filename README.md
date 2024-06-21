@@ -1,4 +1,4 @@
-# MY CV
+# My CV
 
 ## Table of Contents
 
