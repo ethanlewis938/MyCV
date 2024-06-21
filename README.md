@@ -1,4 +1,4 @@
-# MY CV
+# My CV
 
 ## Table of Contents
 
@@ -47,31 +47,28 @@ After installing the project, you can use it by following these steps:
      ```
 **2. Interact with the program**
 
-  Firstly, the program will give you a list of prompts to enter.
+After cloning the repository and navigating to the project directory, you can use the website to learn more about my professional background. Follow these steps to explore the site:
 
-  1. Capture Shoes: Enter new shoe details (country, code, product, cost, quantity) to add to the inventory.
-  2. View All Shoes: Display all shoe details in a table format.
-  3. Re-Stock: Find the shoe with the lowest quantity and update its stock.
-  4. Search Shoe: Search for a shoe by its code and display its details.
-  5. Value Per Item: Calculate and display the total value of each shoe (cost × quantity).
-  6. Highest Quantity Shoe: Identify and display the shoe with the highest quantity.
-  7. Exit: Exit the program.
+1. **Open the Website**: Launch the `index.html` file in your preferred web browser.
+
+2. **Navigate Through Sections**:
+   - **Bio**: Read about my background in software engineering, web development, and data analysis.
+   - **Contact**: Find my phone number and email address for easy communication.
+   - **Skills**: Discover my key skills, including Python proficiency and teamwork abilities.
+   - **Education & Work Experience**: Review my educational achievements and professional internships.
+   <br>
+
+3. **Search Form**: Although the search form is currently non-functional, it is included as a placeholder for future development.
+
+4. **Contact Form**: Similarly, the contact form is not yet functional but provides a framework for visitor messages.
 
 ### Example Interaction
 
 
-**- Main User Prompt**
+**- Website**
 
-![Program Screenshot](images/menuPrompt.png)
+![Program Screenshot](images/cvLooksLike.png)
 <br>
-
-**- Option One Test**
-
-![Program Screenshot](images/optionOnePrompt.png)
-<br>
-
-**- Error Handling**
-![Program Screenshot](images/ErrorHandling.png)
 
 ## Credits
 
