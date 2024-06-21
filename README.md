@@ -10,8 +10,7 @@
 - [Credits](#credits)
 
 ## Description and Content
-
-This Python program is designed for a shoe store manager to efficiently manage inventory and sales operations. It includes several functionalities such as reading shoe data from a file, capturing new shoe data, viewing all shoe details, and identifying shoes that need restocking. The program can also search for shoes by code, calculate the total value of each shoe based on cost and quantity, and highlight shoes with the highest quantity for sale. Additionally, the program provides a user-friendly menu to execute these functions, ensuring smooth and effective management of the shoe store’s inventory.
+Welcome to my personal portfolio website! I created this site to showcase my skills, education, and work experience. In the Bio section, you can learn about my background in software engineering, my passion for web development and data analysis, and my career aspirations. The Contact section provides my phone number and email address for easy communication. In the Skills section, you'll discover my key skills, including Python proficiency and teamwork abilities. The Education & Work Experience section allows you to review my educational achievements and professional internships. The website also includes a search form and a contact form, though these features are currently not functional. Designed with HTML and CSS using Visual Studio Code, the site aims to present my profile in a clean and professional manner.
 
 ## Installation
 
@@ -22,23 +21,15 @@ To install and run this project locally, follow these steps:
     - Make sure you have created a temporary folder for this repository.
 
    ```sh
-   git clone https://github.com/ethanlewis938/Shoe_Store_Manager
+   git clone https://github.com/ethanlewis938/MyCVRepository
    ```
 2. **Navigate to the project directory**:
-
-   ```sh
-   cd temporyFile/Shoe_Store_Manager/
-   ```
+    Find the project directory in your files and navigate to it.
+    
 3. **Run the program**:
 
    - On Windows:
-     ```sh
-     python inventory.py
-     ```
-   - On Mac:
-     ```sh
-     python3 inventory.py
-     ```
+      - Right click on the index file and open with any browser.
 
 ## Usage
 
