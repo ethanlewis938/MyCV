@@ -1,4 +1,4 @@
-# My CVs
+# My CV
 
 ## Table of Contents
 
@@ -73,4 +73,4 @@ Lead Programmer
 
 ## Repository Link
 
-[View the Repository](https://github.com/ethanlewis938/Shoe_Store_Manager)
+[View the Repository](https://github.com/ethanlewis938/MyCVRepository)
