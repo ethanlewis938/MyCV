@@ -10,7 +10,8 @@
 - [Credits](#credits)
 
 ## Description and Content
-Welcome to my personal portfolio website that I created. I made this site to showcase my skills, education, and work experience. In the bio section, you can learn about my background in software engineering, my passion for web development and my career. The contact section provides my phone number and email address. In the skills section, you'll discover my key skills, including my understanding in Python and teamwork abilities. The education and work experience section allows you to review my educational achievements and professional internships. Designed with HTML and CSS using Visual Studio Code.
+Welcome to my personal CV site that I created. I made this site to showcase my skills, education, and work experience. In the bio section, you can learn about my background in software engineering, my passion for web development and my career. The contact section provides my phone number and email address. In the skills section, you will see my skills, including my understanding in Python and teamwork abilities. The education and work experience section allows you to review my educational achievements and any internships. 
+I designed this website with HTML and CSS using Visual Studio Code.
 
 ## Installation
 
